@@ -12,4 +12,8 @@ Quando o usuário entrar na tela de detalhes e voltar pra Home, o animal deve te
 - usar typescript
 - ser responsivo
 
+# Opcional
+
+- converter as dimensões do animal (length e weights) para medidas metro e kg
+
 Boa sorte!
